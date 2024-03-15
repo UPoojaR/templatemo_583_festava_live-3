@@ -472,7 +472,7 @@ strong {
   overflow: hidden;
   padding-top: 100px;
   height: calc(100vh - 51px);
-  background: url("../images/img.jpg") no-repeat center center fixed;
+  background: url("../images/logo.jpg") no-repeat center center fixed;
   background-size: cover;
 }
 
@@ -1015,5 +1015,5 @@ strong {
 }
 
 .video-wrap {
-  background: url(./../images/img.jpg);
+  background: url(./../images/logo.jpg);
 }
